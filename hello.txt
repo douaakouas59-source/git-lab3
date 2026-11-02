@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-=======
-Conflict 
->>>>>>> conflict
+
 Conflict resolved
